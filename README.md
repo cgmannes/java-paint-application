@@ -8,5 +8,5 @@ specified color. The paint application contains tools for drawing lines, circles
 and squares/rectangles. The paint application contains 6 color options and 4 line 
 thickness options.
 
-Compile: This program uses a Gradle build. Compile by executing gradle build followed 
-by gradle run in the working directory using terminal.
+Compile: This program uses a Gradle build. Compile by executing "gradle build" followed 
+by "gradle run" in the working directory using terminal.
